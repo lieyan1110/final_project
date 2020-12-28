@@ -1,0 +1,93 @@
+h1{
+font-family: 'Dancing Script', cursive;
+font-size: 50%;
+
+}
+
+h2{
+  font-family: 'Courgette', cursiv
+}
+
+h3{
+  font-family: 'Cookie', cursive;
+
+}
+h4{
+  font-family: 'Parisienne', cursive;
+}
+
+p{
+font-family: 'Caveat', cursive;
+}
+
+
+body{
+  text-align: center;
+}
+.carousel-item {
+  padding: 7% 15%;
+}
+
+.icon{
+  float: left;
+  margin: 30px;
+  color: #ff4646;
+
+}
+.picture1 , .picture3, .picture4, .picture5{
+height: 100%;
+width: 50%;
+
+}
+
+.picture2{
+  height: 50%;
+  width: 25%;
+  margin: 20px;
+  float: left;
+
+}
+.title{
+text-align: center;
+
+}
+
+#title{
+    background-color: #ef4f4f;
+    margin: 0;
+    padding:4% 7%;
+}
+
+#headline{
+  padding: 7% 15%;
+  background-color: #ef4f4f;
+}
+
+#nav-bar{
+  background-color: #ef4f4f;
+  padding: 0;
+  margin: 0;
+  text-align: center;
+}
+
+#feature{
+  padding: 7% 15%;
+  background-color: #ffe0d8;
+
+}
+
+#about-us{
+  padding: 7% 15%;
+  background-color: #ff4646;
+}
+
+#pricing{
+    padding: 7% 15%;
+    background-color: #ffe0d8;
+    text-align: center;
+}
+#contact-us{
+      padding: 7% 15%;
+      text-align: center;
+      background-color: #ff9b93;
+}
